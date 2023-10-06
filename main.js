@@ -1,14 +1,15 @@
 //Bien
-    var fullName = 'vovod';
+var fullName = 'vovod';
 //alert mention
-    alert(fullName);
-    console.log('F12 console');//console
-    confirm('Day');//Header
-    prompt('Day?')//Header key
+
+alert(fullName);
+console.log('F12 console');//console
+confirm('Day');//Header
+prompt('Day?')//Header key
 //Time after
-    setTimeout(function(){
-        alert('2 sec');
-    }, 2000);
+setTimeout(function () {
+    alert('2 sec');
+}, 2000);
 //Loop
 /*
     setInterval(function() {
